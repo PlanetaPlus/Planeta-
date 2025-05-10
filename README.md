@@ -39,6 +39,13 @@ https://www.canva.com/design/DAGmoQCb_dg/W44EIjLkdV5gtUJZcJ-gLA/edit
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 1 O que as pessoas fazem? Preocupam-se com os danos que causam ao meio-ambiente.
 2 Quais os artefatos envolvidos? 
+-Aplicativo mobile Planeta+
+-Quizzes e jogos interativos
+-Sistema de recompensas (como medalhas, conquistas virtuais, árvore virtual etc.)
+-Relatórios de progresso do usuário
+-Notificações e lembretes ecológicos
+
+Recursos visuais e gamificados para educação ambiental
 3 O que elas precisam saber? Que devem continuar usando plataformas como a Planeta+ para serem conscientes sobre suas ações.
 
 
