@@ -61,11 +61,11 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+(https://github.com/PlanetaPlus/Planeta-/blob/bd49b3b31ae5dffe47099905447b66cd3b7b42f6/REQUISITOS%20FUNCIONAIS.png)
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+(https://github.com/PlanetaPlus/Planeta-/blob/bd49b3b31ae5dffe47099905447b66cd3b7b42f6/REQUISITOS%20NAO%20FUNCIONAIS.png)
 
 ***2.3. Perguntas***
 
