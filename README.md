@@ -33,9 +33,13 @@ Link de visualização:
 https://www.canva.com/design/DAGmoQCb_dg/W44EIjLkdV5gtUJZcJ-gLA/edit?utm_content=DAGmoQCb_dg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ***Análise da situação atual: antes da introdução de sua solução***
+
 1 O que as pessoas fazem? Não têm o costume de se preocuparem com os danos que causam ao meio-ambiente. 
+
 2 Quais os artefatos envolvidos? Não são utilizados artefatos.
+
 3 O que elas precisam saber? Que devem ser usados mecanismos para controlar nossos danos ao meio-ambiente.
+
 
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
