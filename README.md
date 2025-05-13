@@ -28,7 +28,8 @@ Os usuários finais do sistema serão indivíduos interessados em conscientizar-
 
 [Requisitos/Persona_usuário.jpg
 Requisitos/Persona_antiUsuario.jpg](https://github.com/PlanetaPlus/Planeta-/tree/ea2831072f0cfedeaed2076bb452d5b7a4a8f1ad/Requisitos)
-Link de visualização: https://www.canva.com/design/DAGmoQCb_dg/W44EIjLkdV5gtUJZcJ-gLA/edit?utm_content=DAGmoQCb_dg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link de visualização:
+https://www.canva.com/design/DAGmoQCb_dg/W44EIjLkdV5gtUJZcJ-gLA/edit?utm_content=DAGmoQCb_dg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ***Análise da situação atual: antes da introdução de sua solução***
 1 O que as pessoas fazem? Não têm o costume de se preocuparem com os danos que causam ao meio-ambiente. 
