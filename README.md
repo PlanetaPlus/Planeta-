@@ -84,8 +84,7 @@ Link do roteiro: https://docs.google.com/document/d/1S5nUFnAVPz8Tz6V_Z4xsWczn5H2
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
 ***2.5. Histórias do Usuário***
-
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+https://docs.google.com/document/d/1qBNQfn0DROuD8HnEY6sMnPDoZCfbK-cOM_jJlqpf2W4/edit?tab=t.0
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
