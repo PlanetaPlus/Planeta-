@@ -80,6 +80,7 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 Link do roteiro: https://docs.google.com/document/d/1S5nUFnAVPz8Tz6V_Z4xsWczn5H2kmW-_ZkqXw34QAT4/edit?usp=sharing
 
 ***2.4. Entrevista***
+
 Link do relatorio da entrevista: https://docs.google.com/document/d/1Tw5XRnbTb_OfrOyhIM2K6PDbE4Kc7J0-x5EuW6OCw0s/edit?tab=t.0#heading=h.36razy1tyhc8
 
 
@@ -90,8 +91,7 @@ Link da entrevista gravada: https://drive.google.com/file/d/1t-S6nX85S-O8yJ5jRY0
 https://docs.google.com/document/d/1qBNQfn0DROuD8HnEY6sMnPDoZCfbK-cOM_jJlqpf2W4/edit?tab=t.0
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
-
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+(https://github.com/PlanetaPlus/Planeta-/blob/main/DiagramaDeCasoDeUso.mdj)
 
 ***2.7. Diagramas de Atividades***
 
