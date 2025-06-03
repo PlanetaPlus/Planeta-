@@ -95,7 +95,7 @@ https://docs.google.com/document/d/1qBNQfn0DROuD8HnEY6sMnPDoZCfbK-cOM_jJlqpf2W4/
 
 ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+(https://github.com/PlanetaPlus/Planeta-/blob/main/DiagramaDeAtividade_Requisitos.png)
 
 ***2.8. Matrizes de Rastreabilidade***
 
