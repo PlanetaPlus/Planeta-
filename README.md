@@ -110,10 +110,28 @@ https://1drv.ms/w/c/f5d7142c7b2a3228/EahW5mEswX1Ki50JcFF40KIBTlPeZXphGAp-4_WPnD-
 
 ***2.9. Protótipos***
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
+https://ninjamock.com/Designer/Workplace/204683795/Page14)
 
 ## Referências
 
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
 
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
+[1] “Diretrizes Curriculares Nacionais para a Educação Ambiental”, MEC/CONAMA, Versão 2002. Localização: https://www.mma.gov.br/estruturas/educamb/_arquivos/diretrizes.pdf
+
+[2] “Games e Educação Ambiental: Perspectivas para o Desenvolvimento Sustentável”, R. S. Dias e C. J. Ferreira, Versão 2018. Localização: https://revistas.unifacs.br/index.php/redu/article/view/4168
+
+[3] “Pegada Ecológica”, WWF Brasil, Versão 2023. Localização: https://www.wwf.org.br/natureza_brasileira/pegada_ecologica/
+
+[4] “FlutterFlow Docs – Build mobile apps visually”, FlutterFlow Inc., Versão 2025. Localização: https://docs.flutterflow.io/
+
+[5] “Supabase Documentation”, Supabase, Versão 2025. Localização: https://supabase.com/docs
+
+[6] “Educação Ambiental: princípios e práticas”, Sato, M., Versão 2003. Localização: Acervo Biblioteca Virtual em Educação MEC (http://bd.camara.leg.br)
+
+[7] “Diretrizes para Design de Aplicativos Educacionais Gamificados”, I. H. Cruz e D. C. Barbosa, Versão 2021. Localização: https://seer.ufrgs.br/rita/article/view/117381
+
+[8] “Gamificação e Aprendizagem: Uma Revisão Sistemática”, M. F. Souza et al., Versão 2020. Localização: https://periodicos.unb.br/index.php/rbie/article/view/32342
+
+[9] “WCAG 2.1: Diretrizes de Acessibilidade para Conteúdo Web”, W3C, Versão 2018. Localização: https://www.w3.org/TR/WCAG21/
+
+[10] “Google Material Design Guidelines”, Google, Versão 2025. Localização: https://m3.material.io/
