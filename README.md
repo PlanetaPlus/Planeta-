@@ -36,7 +36,7 @@ Requisitos/Persona_antiUsuario.jpg](https://github.com/PlanetaPlus/Planeta-/tree
 Link de visualização:
 https://www.canva.com/design/DAGmoQCb_dg/W44EIjLkdV5gtUJZcJ-gLA/edit?utm_content=DAGmoQCb_dg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-***Análise da situação atual: antes da introdução de sua solução***
+### ***Análise da situação atual: antes da introdução de sua solução***
 
 1 O que as pessoas fazem? Não têm o costume de se preocuparem com os danos que causam ao meio-ambiente. 
 
@@ -44,22 +44,34 @@ https://www.canva.com/design/DAGmoQCb_dg/W44EIjLkdV5gtUJZcJ-gLA/edit?utm_content
 
 3 O que elas precisam saber? Que devem ser usados mecanismos para controlar nossos danos ao meio-ambiente.
 
+------------------------------------
+
+### ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
+
+1. **O que as pessoas fazem?** 
+
+   - Preocupam-se com os danos que causam ao meio-ambiente.
 
 
-***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
-1 O que as pessoas fazem? Preocupam-se com os danos que causam ao meio-ambiente.
+2.  **Quais os artefatos envolvidos?**
+
+    - Aplicativo mobile Planeta+
+
+    - Quizzes e jogos interativos
+
+    - Sistema de recompensas (como medalhas, conquistas virtuais, árvore virtual etc.)
+
+    -  Relatórios de progresso do usuário
+
+    - Notificações e lembretes ecológicos
+
+    - Recursos visuais e gamificados para educação ambiental
 
 
-2 Quais os artefatos envolvidos? 
--Aplicativo mobile Planeta+
--Quizzes e jogos interativos
--Sistema de recompensas (como medalhas, conquistas virtuais, árvore virtual etc.)
--Relatórios de progresso do usuário
--Notificações e lembretes ecológicos
--Recursos visuais e gamificados para educação ambiental
 
+3. **O que elas precisam saber?**
 
-3 O que elas precisam saber? Que devem continuar usando plataformas como a Planeta+ para serem conscientes sobre suas ações.
+    - Que devem continuar usando plataformas como a Planeta+ para serem conscientes sobre suas ações.
 
 
 ***Cenário: Antes***
