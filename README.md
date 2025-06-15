@@ -120,7 +120,7 @@ Link da entrevista gravada: https://drive.google.com/file/d/1t-S6nX85S-O8yJ5jRY0
 https://docs.google.com/document/d/1qBNQfn0DROuD8HnEY6sMnPDoZCfbK-cOM_jJlqpf2W4/edit?tab=t.0
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
-
+https://github.com/PlanetaPlus/Planeta-/blob/main/DiagramaDeCasoDeUso.png
 
 Especificação dos Casos de Uso: 
 
