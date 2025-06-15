@@ -114,8 +114,6 @@ https://ninjamock.com/Designer/Workplace/204683795/Page14)
 
 ## Referências
 
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
-
 [1] “Diretrizes Curriculares Nacionais para a Educação Ambiental”, MEC/CONAMA, Versão 2002. Localização: https://www.mma.gov.br/estruturas/educamb/_arquivos/diretrizes.pdf
 
 [2] “Games e Educação Ambiental: Perspectivas para o Desenvolvimento Sustentável”, R. S. Dias e C. J. Ferreira, Versão 2018. Localização: https://revistas.unifacs.br/index.php/redu/article/view/4168
