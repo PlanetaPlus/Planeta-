@@ -29,20 +29,23 @@ Os usuários finais do sistema serão indivíduos interessados em conscientizar-
 > **Persona Usuário**
 <img src="https://github.com/PlanetaPlus/Planeta-/blob/main/Requisitos/Usuario_Persona.jpg" alt="Persona Usuário">
 
+-------------------------------------------------------------
 
-[Requisitos/Persona_usuário.jpg
-Requisitos/Persona_antiUsuario.jpg](https://github.com/PlanetaPlus/Planeta-/tree/ea2831072f0cfedeaed2076bb452d5b7a4a8f1ad/Requisitos)
+> **Persona Anti-Usuário**
+<img src="https://github.com/PlanetaPlus/Planeta-/blob/main/Requisitos/AntiUsuario_Persona.jpg" alt= "Persona Anti-Usuário">
 
-Link de visualização:
-https://www.canva.com/design/DAGmoQCb_dg/W44EIjLkdV5gtUJZcJ-gLA/edit?utm_content=DAGmoQCb_dg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+----------------------------------------------------------------------------------------------------
 
 ### ***Análise da situação atual: antes da introdução de sua solução***
 
-1 O que as pessoas fazem? Não têm o costume de se preocuparem com os danos que causam ao meio-ambiente. 
+1. **O que as pessoas fazem?**
+     - Não têm o costume de se preocuparem com os danos que causam ao meio-ambiente. 
 
-2 Quais os artefatos envolvidos? Não são utilizados artefatos.
+2. **Quais os artefatos envolvidos?**
+     - Não são utilizados artefatos.
 
-3 O que elas precisam saber? Que devem ser usados mecanismos para controlar nossos danos ao meio-ambiente.
+3. **O que elas precisam saber?**
+     - Que devem ser usados mecanismos para controlar nossos danos ao meio-ambiente.
 
 ------------------------------------
 
