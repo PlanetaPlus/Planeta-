@@ -127,10 +127,16 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 
 ***2.4. Entrevista***
 
-Link do relatorio da entrevista: https://docs.google.com/document/d/1Tw5XRnbTb_OfrOyhIM2K6PDbE4Kc7J0-x5EuW6OCw0s/edit?tab=t.0#heading=h.36razy1tyhc8
+- **Relatorio da entrevista:** 
+
+[Arquivo com relátorio da Entrevista](https://docs.google.com/document/d/1Tw5XRnbTb_OfrOyhIM2K6PDbE4Kc7J0-x5EuW6OCw0s/edit?tab=t.0#heading=h.36razy1tyhc8) 
 
 
-Link da entrevista gravada: https://drive.google.com/file/d/1t-S6nX85S-O8yJ5jRY0g4vWy4syTwThJ/view?usp=drivesdk
+- **Entrevista gravada:**
+  
+[Arquivo com gravação da entrevista](https://drive.google.com/file/d/1t-S6nX85S-O8yJ5jRY0g4vWy4syTwThJ/view?usp=drivesdk)
+
+
 
 
 ***2.5. Histórias do Usuário***
