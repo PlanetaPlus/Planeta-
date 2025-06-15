@@ -3,7 +3,7 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet: https://padlet.com/marianagp294/requisitos-de-software-planeta-2lc5dzeb944hrf6r
+Link do Padlet: [Padlet Planeta+](https://padlet.com/marianagp294/requisitos-de-software-planeta-2lc5dzeb944hrf6r)
 
 ## 1. Introdução
 
@@ -140,7 +140,24 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 
 
 ***2.5. Histórias do Usuário***
-https://docs.google.com/document/d/1qBNQfn0DROuD8HnEY6sMnPDoZCfbK-cOM_jJlqpf2W4/edit?tab=t.0
+
+| ID | OBJETIVO |
+|--- | -------- | 
+|RF01| Como usuário, quero criar uma conta e fazer login para que eu posso acessar e utilizar os recursos do app. |
+|RF02| Como usuário, quero compartilhar meu progresso nas redes sociais, para mostrar minhas conquistas e inspirar outras pessoas. |
+|RF03| Como usuário, quero calcular minha pegada de carbono com base em meus hábitos diários, para que eu entenda meu impacto ambiental e saiba onde posso melhorar. |
+|RF04| Como usuário, quero visualizar um ranking de pontuações de diminuição de CO₂, para que eu possa comparar meu desempenho com o de outros usuários.  |
+|RF05| Como estudante, quero exportar relatórios em PDF (incluindo cálculo da pegada e resultados de quizzes), para que eu possa usar esses documentos em trabalhos escolares ou apresentações. |
+|RF06| Como usuário, eu quero acompanhar meu progresso na diminuição de pegada de carbono, para que eu possa verificar o quanto eu reduzi da minha pegada de carbono.  |
+|RF07| Como usuário, eu quero poder receber uma avaliação semanal da minha evolução para que eu possa avaliar minha performance durante a semana. |
+|RF08| Como usuário, eu quero poder fazer quizzes sobre o impacto ambiental, para que eu possa diminuir minha pegada de carbono de forma divertida. |
+|RF09| Como usuário, eu quero poder resgatar pontos de lojas parceiras, para que eu possa ter recompensas. |
+|RF10| Como usuário, eu quero poder observar gráficos coloridos sobre como melhorei de mês a mês, para que possa verificar de forma intuitiva meu progresso. |
+|RF11| Como usuário engajado, quero receber um selo “amigo do clima” quando adotar hábitos sustentáveis no aplicativo, para que eu possa ser reconhecido pelo meu esforço e me sentir motivado a continuar melhorando. |
+|RF12| Como usuário do aplicativo, quero ver um planeta que muda de aparência conforme meus hábitos sustentáveis, para que eu possa visualizar de forma clara e divertida o impacto das minhas ações no meio ambiente.  |
+|RF13| Como usuário do aplicativo, quero acessar uma tela exclusiva para visualizar minhas árvores e conquistas virtuais, para que eu acompanhe meu progresso ambiental de forma gamificada e motivadora. |
+|RF14| Como usuário do app, quero poder configurar os horários e tipos de lembretes que recebo, para que as notificações estejam alinhadas com minha rotina e preferências. |
+
 
 ----------------------
 
