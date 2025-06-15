@@ -91,7 +91,24 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 
 ***2.1. Requisitos Funcionais***
 
-[(https://github.com/PlanetaPlus/Planeta-/blob/bd49b3b31ae5dffe47099905447b66cd3b7b42f6/REQUISITOS%20FUNCIONAIS.png)](https://docs.google.com/spreadsheets/d/1Du95BnGc2OFL156DzZyPDY-ckGwqj1C-JvwXgmwB0TQ/edit?gid=0#gid=0)
+| ID | REQUISITO FUNCIONAL | PRIORIDADE | DEPENDE DE |
+| -- | ------------------- | --------- | ----------- |
+| RF01  | O software deve permitir que o usuário crie/faça login em uma conta. |M|            |
+| RF02  | O sistema deve permitir que o usuário compartilhe o seu progresso nas redes sociais. |C| RF01, RF06, RNF04 |
+| RF03  | O software deve permitir que o usuário calcule a sua pegada de carbono com base em seus hábitos diários. |M| RF01, RNF02 |
+| RF04  | O software deve permitir que o usuário visualize um ranking de pontuações sobre a diminuição de CO2. |S| RF01,RF03, RNF07 |
+| RF05  | O sistema deve permitir que o usuário exporte os dados, como relatórios sobre o cálculo da pegada de carbono e resultado de quizzes em PDF para trabalhos escolares. |W| RF03, RF06, RNF09 |
+| RF06  |  O software deve permitir que o usuário acompanhe seu progresso na diminuição da pegada de carbono, de acordo com o histórico de pegada de carbono e de resultado de quizzes. |M| RF01, RF03, RNF10 |
+| RF07  | O sistema deve permitir que o usuário receba uma avaliação semanalmente da sua evolução. |M| RF01, RF06, RNF08 |
+| RF08  | O sistema deve permitir que o usuário faça quizzes sobre o impacto dos seus hábitos. |M| RF01, RNF05 |
+| RF09  | O sistema deve permitir que o usuário resgate pontos de lojas parceiras. |C| RF01, RF06, RNF04 |
+| RF10  | O software deve permitir que o usuário veja gráficos coloridos sobre o quanto ele melhorou mês a mês. |S| RF01, RF06, RNF02, RNF06 |
+| RF11  | O software deve emitir um selo “amigo do clima” para usuários e empresas com bom desempenho sustentável. |S| RF06, RF07 |
+| RF12  | O sistema deve permitir que o usuário visualize suas árvores e conquistas em uma tela dedicada com interações visuais (focado exclusivamente na árvore virtual, já que é central no app) |C|RF06, RF10|
+| RF13  | O sistema deve permitir a configuração personalizada de lembretes e notificações (relacionado à tela de configurações). |C|RF06, RNF08|
+| RF14  | O sistema deve exibir na tela inicial um planeta cuja aparência muda dinamicamente conforme os hábitos sustentáveis do usuário, ficando saudável com bons hábitos e poluído com maus hábitos. |M|RF06, RF10|
+
+--------------------------
 
 ***2.2. Requisitos Não Funcionais***
 [
