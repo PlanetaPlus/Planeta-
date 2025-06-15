@@ -136,6 +136,8 @@ Link da entrevista gravada: https://drive.google.com/file/d/1t-S6nX85S-O8yJ5jRY0
 ***2.5. Histórias do Usuário***
 https://docs.google.com/document/d/1qBNQfn0DROuD8HnEY6sMnPDoZCfbK-cOM_jJlqpf2W4/edit?tab=t.0
 
+----------------------
+
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
 > ***Diagrama de Caso de Uso***
@@ -146,11 +148,11 @@ Especificação dos Casos de Uso:
 https://1drv.ms/w/c/f5d7142c7b2a3228/EahW5mEswX1Ki50JcFF40KIBTlPeZXphGAp-4_WPnD-PWw?e=2EMJgc
 
 
-
+-----------------------
 
 ***2.7. Diagramas de Atividades***
+<img src="https://github.com/PlanetaPlus/Planeta-/blob/main/Requisitos/Diagrama%20de%20Atividade.jpg" alt="Diagrama de Atividades">
 
-(https://github.com/PlanetaPlus/Planeta-/blob/main/DiagramaDeAtividade_Requisitos.png)
 
 ***2.8. Matrizes de Rastreabilidade***
 
