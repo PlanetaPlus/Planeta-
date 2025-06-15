@@ -85,6 +85,8 @@ Antes da aplicação do sistema Planeta+, a maioria das pessoas, especialmente c
 
 Após a implementação do sistema Planeta+, os usuários passam a interagir com um aplicativo envolvente e educativo que os estimula a refletir e agir de forma mais consciente em relação ao meio ambiente. Por meio de quizzes, desafios e recompensas virtuais, eles aprendem conceitos importantes de sustentabilidade e são incentivados a adotar hábitos mais ecológicos, como economizar água, reduzir o uso de plástico e plantar árvores virtuais (com incentivo para ações reais). O aplicativo se torna um aliado no processo de conscientização ambiental, promovendo mudanças positivas de comportamento de forma lúdica e acessível.
 
+-----------------------------------
+
 ## 2. Documentos gerais no repositório
 
 ***2.1. Requisitos Funcionais***
@@ -135,14 +137,16 @@ Link da entrevista gravada: https://drive.google.com/file/d/1t-S6nX85S-O8yJ5jRY0
 https://docs.google.com/document/d/1qBNQfn0DROuD8HnEY6sMnPDoZCfbK-cOM_jJlqpf2W4/edit?tab=t.0
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
-https://github.com/PlanetaPlus/Planeta-/blob/main/DiagramaDeCasoDeUso.png
+
+> ***Diagrama de Caso de Uso***
+<img src="https://github.com/PlanetaPlus/Planeta-/blob/main/DiagramaDeCasoDeUso.png" alt="Diagrama de Caso de Uso">
 
 Especificação dos Casos de Uso: 
 
 https://1drv.ms/w/c/f5d7142c7b2a3228/EahW5mEswX1Ki50JcFF40KIBTlPeZXphGAp-4_WPnD-PWw?e=2EMJgc
 
 
-(https://github.com/PlanetaPlus/Planeta-/blob/main/DiagramaDeCasoDeUso.mdj)
+
 
 ***2.7. Diagramas de Atividades***
 
