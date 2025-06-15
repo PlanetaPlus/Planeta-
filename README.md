@@ -26,6 +26,10 @@ Os usuários finais do sistema serão indivíduos interessados em conscientizar-
 
 ***Personas:***
 
+> **Persona Usuário**
+<img src="https://github.com/PlanetaPlus/Planeta-/blob/main/Requisitos/Usuario_Persona.jpg" alt="Persona Usuário">
+
+
 [Requisitos/Persona_usuário.jpg
 Requisitos/Persona_antiUsuario.jpg](https://github.com/PlanetaPlus/Planeta-/tree/ea2831072f0cfedeaed2076bb452d5b7a4a8f1ad/Requisitos)
 
