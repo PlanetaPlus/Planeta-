@@ -77,7 +77,32 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 (https://github.com/PlanetaPlus/Planeta-/blob/bd49b3b31ae5dffe47099905447b66cd3b7b42f6/REQUISITOS%20NAO%20FUNCIONAIS.png)](https://docs.google.com/spreadsheets/d/1Du95BnGc2OFL156DzZyPDY-ckGwqj1C-JvwXgmwB0TQ/edit?gid=2116779670#gid=2116779670)
 
 ***2.3. Perguntas***
-Link do roteiro: https://docs.google.com/document/d/1S5nUFnAVPz8Tz6V_Z4xsWczn5H2kmW-_ZkqXw34QAT4/edit?usp=sharing
+
+**Roteiro de Perguntas para Entrevista**
+> *Sobre o cálculo da pegada de carbono (RF03)*
+- Que fatores você considera essenciais para que o cálculo da pegada de carbono de um indivíduo seja preciso?
+- Existem metodologias ou bases de dados que você recomenda utilizar?
+- Como podemos tornar esse cálculo simples o suficiente para usuários leigos, mas ainda confiável?
+  
+> *Sobre o progresso e comportamento do usuário (RF06)*
+- Que tipo de feedback seria mais eficaz para incentivar mudanças de hábito sustentáveis?
+- Acompanhar o progresso ambiental mês a mês é realista? Como você sugere que isso seja feito?
+- Existe alguma métrica visual (ex: equivalente de árvores, água economizada) que funcione bem para engajar?
+
+> *Sobre quizzes e educação ambiental (RF08)*
+- O uso de quizzes sobre sustentabilidade pode de fato educar ou transformar comportamento?
+- Que tipo de conteúdo você acredita ser mais eficaz nesses quizzes (mitos, estatísticas, comparações)?
+- Você tem exemplos de campanhas bem-sucedidas usando gamificação ambiental?
+  
+> *Sobre a criação de conta e segurança (RF01 + RNF04)*
+- A criação de conta deve exigir nome e e-mail, ou menos? Há riscos em termos de dados pessoais nesse contexto?
+- Você considera essencial criptografar os dados de hábitos ambientais dos usuários? Por quê?
+  
+> *Sobre o desempenho e acesso (RNF01, RNF02, RNF07)*
+- Para um app educacional de sustentabilidade, você acha importante que ele funcione em qualquer celular, mesmo mais antigo?
+- Você vê algum impacto ambiental negativo em um app que exige internet constante ou alto consumo de energia?
+- Suportar milhares de usuários simultâneos é importante ou pode ser resolvido com outros meios (ex: escalonamento)?
+
 
 ***2.4. Entrevista***
 
