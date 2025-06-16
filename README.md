@@ -107,6 +107,7 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 | RF12  | O sistema deve permitir que o usuário visualize suas árvores e conquistas em uma tela dedicada com interações visuais (focado exclusivamente na árvore virtual, já que é central no app) |C|RF06, RF10|
 | RF13  | O sistema deve permitir a configuração personalizada de lembretes e notificações (relacionado à tela de configurações). |C|RF06, RNF08|
 | RF14  | O sistema deve exibir na tela inicial um planeta cuja aparência muda dinamicamente conforme os hábitos sustentáveis do usuário, ficando saudável com bons hábitos e poluído com maus hábitos. |M|RF06, RF10|
+| RF15 | O sistema deve conceder gotas de água virtuais ao usuário como recompensa por cada conquista, que poderão ser usadas para regar sua árvore virtual. |S|RF04, RF05|
 
 --------------------------
 
