@@ -114,17 +114,20 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 | ID | REQUISITO FUNCIONAL | PRIORIDADE | DEPENDE DE |
 | -- | ------------------- | --------- | ----------- |
 | RNF01  | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS. |M|            |
-| RNF02  | O tempo de resposta do aplicativo deve ser inferior a 2 segundos para qualquer ação do usuário. |C| RF01, RF06, RNF04 |
-| RNF03  |O aplicativo deve consumir menos de 5% de bateria em uso contínuo por 1 hora. |M| RF01, RNF02 |
-| RNF04  | O armazenamento de dados do usuário deve ser criptografado para garantir segurança e privacidade. |S| RF01,RF03, RNF07 |
-| RNF05  | O aplicativo deve funcionar offline para visualização de quizzes já baixados. |W| RF03, RF06, RNF09 |
-| RNF06  | A interface do usuário (UI) deve seguir princípios de acessibilidade WCAG 2.1 |M| RF01, RF03, RNF10 |
-| RNF07  | O aplicativo deve suportar até 10.000 usuários simultâneos sem degradação de desempenho. |M| RF01, RF06, RNF08 |
-| RNF08  | O sistema deve enviar notificações push apenas em horários pré-definidos (evitando spamming). |M| RF01, RNF05 |
-| RNF09  | O aplicativo deve ocupar menos de 50 MB de espaço no dispositivo do usuário. |C| RF01, RF06, RNF04 |
-| RNF10  | As atualizações do aplicativo devem ser lançadas trimestralmente com melhorias e correções, de segurança, usabilidade e desempenho |S| RF01, RF06, RNF02, RNF06 |
-| RNF11  | O sistema deve estar em conformidade com a LGPD, incluindo termos de uso e consentimento do usuário para coleta de dados. |S| RF06, RF07 |
-| RNF12  | A arquitetura do aplicativo deve ser flexível e escalável para permitir crescimento futuro e uso por instituições (como escolas). |C|RF06, RF10|
+| RNF02  | O tempo de resposta do aplicativo deve ser inferior a 2 segundos para qualquer ação do usuário. |M| RNF07 |
+| RNF03  |O aplicativo deve consumir menos de 5% de bateria em uso contínuo por 1 hora. |S| RNF01, RNF09 |
+| RNF04  | O armazenamento de dados do usuário deve ser criptografado para garantir segurança e privacidade. |M| RF01 |
+| RNF05  | O aplicativo deve funcionar offline para visualização de quizzes já baixados. |C| RF08, RNF09 |
+| RNF06  | A interface do usuário (UI) deve seguir princípios de acessibilidade WCAG 2.1 |M| RF10 |
+| RNF07  | O aplicativo deve suportar até 10.000 usuários simultâneos sem degradação de desempenho. |S| RF01, RF04 |
+| RNF08  | O sistema deve enviar notificações push apenas em horários pré-definidos (evitando spamming). |C| RF01, RF07 |
+| RNF09  | O aplicativo deve ocupar menos de 50 MB de espaço no dispositivo do usuário. |C| RF05, RF10 |
+| RNF10  | As atualizações do aplicativo devem ser lançadas trimestralmente com melhorias e correções, de segurança, usabilidade e desempenho |S| RF06, RF07 |
+| RNF11  | O sistema deve estar em conformidade com a LGPD, incluindo termos de uso e consentimento do usuário para coleta de dados. |M| RF01 |
+| RNF12  | A arquitetura do aplicativo deve ser flexível e escalável para permitir crescimento futuro e uso por instituições (como escolas). |S||
+
+
+Link da planilha com os requisitos e tipos de dependência: https://docs.google.com/spreadsheets/d/1Du95BnGc2OFL156DzZyPDY-ckGwqj1C-JvwXgmwB0TQ/edit?gid=2116779670#gid=2116779670
 
 ***2.3. Perguntas***
 
