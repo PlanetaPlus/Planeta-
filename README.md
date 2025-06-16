@@ -310,8 +310,6 @@ Extensões:
 
 
 
-*<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
-
 ***2.9. Protótipos***
 
 https://ninjamock.com/Designer/Workplace/204683795/Page14)
