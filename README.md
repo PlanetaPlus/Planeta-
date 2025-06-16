@@ -166,84 +166,55 @@ A entrevista abordou a criação de um aplicativo educacional gamificado com foc
 
 
 **Motivação e Origem do Projeto (00:00 - 06:00)**
-
-Maurício (Integrante do grupo) explicou que sua motivação veio de sua cidade natal Paranaguá, com forte contato com questões ambientais.
-
-O projeto surgiu de conversa com a avó, professora, que notou que crianças não entendem sustentabilidade.
-
-A equipe decidiu aliar tecnologia e sustentabilidade, criando um aplicativo educacional.
-
-A proposta foi aprovada pela professora apesar da complexidade inicial.
-
-A entrevistadora destacou a importância de associar tecnologia com questões socioambientais.
+1. Maurício (Integrante do grupo) explicou que sua motivação veio de sua cidade natal Paranaguá, com forte contato com questões ambientais.
+2. O projeto surgiu de conversa com a avó, professora, que notou que crianças não entendem sustentabilidade.
+3. A equipe decidiu aliar tecnologia e sustentabilidade, criando um aplicativo educacional.
+4. A proposta foi aprovada pela professora apesar da complexidade inicial.
+5. A entrevistadora destacou a importância de associar tecnologia com questões socioambientais.
 
 
 
 **Conceito e Funcionalidades do Aplicativo (06:00 - 14:19)**
+1. Equipe está desenvolvendo um protótipo gamificado semelhante ao Duolingo.
+2. Aplicativo incluirá quizzes teóricos sobre sustentabilidade.
+3. Funcionalidade para calcular pegada de carbono baseada nos hábitos do usuário.
+4. Sugestão de tornar o cálculo da pegada de carbono mais acessível para leigos.
+5. A entrevistadora mencionou a importância de exemplos comparativos para usuários entenderem seu impacto.
+6. Equipe considera implementar um selo 'amigo do clima' para empresas.
+7. A entrevistadora sugeriu consultar a norma ABNT PR 2030 para empresas ESG.
 
-Equipe está desenvolvendo um protótipo gamificado semelhante ao Duolingo.
-
-Aplicativo incluirá quizzes teóricos sobre sustentabilidade.
-
-Funcionalidade para calcular pegada de carbono baseada nos hábitos do usuário.
-
-Sugestão de tornar o cálculo da pegada de carbono mais acessível para leigos.
-
-A entrevistadora mencionou a importância de exemplos comparativos para usuários entenderem seu impacto.
-
-Equipe considera implementar um selo 'amigo do clima' para empresas.
-
-A entrevistadora sugeriu consultar a norma ABNT PR 2030 para empresas ESG.
 
 
 **Feedback e Relatórios (14:19 - 22:41)**
-Discussão sobre tipos de feedback eficazes para mudança de comportamento.
-
-Sugestão de mostrar dados de impacto a longo prazo (ex: uso de esponjas plásticas ao longo de um ano).
-
-A equipe planeja implementar relatórios mensais e um relatório anual abrangente.
-Sugestão de tornar relatórios visualmente atrativos, similar ao modelo do Spotify.
-
-Proposta de elementos visuais que mostram os impactos ambientais (ex: floresta que melhora ou piora).
-
-Confirmação de que quizzes podem efetivamente educar e conscientizar sobre sustentabilidade.
-
-Importância de contextualizar os conteúdos para o dia-a-dia do público-alvo.
+1. Discussão sobre tipos de feedback eficazes para mudança de comportamento.
+2. Sugestão de mostrar dados de impacto a longo prazo (ex: uso de esponjas plásticas ao longo de um ano).
+3. A equipe planeja implementar relatórios mensais e um relatório anual abrangente.
+4. Sugestão de tornar relatórios visualmente atrativos, similar ao modelo do Spotify.
+5. Proposta de elementos visuais que mostram os impactos ambientais (ex: floresta que melhora ou piora).
+6. Confirmação de que quizzes podem efetivamente educar e conscientizar sobre sustentabilidade.
+7. Importância de contextualizar os conteúdos para o dia-a-dia do público-alvo.
 
 
 
 **Dados, Privacidade e Desempenho (22:41 - 39:08)**
-
-Discussão sobre coleta de dados pessoais (nome, e-mail) e necessidade de termos de serviço.
-
-Importância de conformidade com LGPD para dados dos usuários.
-
-Criptografia considerada desejável mas não prioritária inicialmente.
-
-Foco em desenvolver para dispositivos com poucos recursos computacionais, especialmente para escolas públicas.
-
-Sugestão de considerar o impacto ambiental do próprio aplicativo e planejar compensações.
-
-Recomendação de projetar arquitetura flexível para escalabilidade futura.
-
-A entrevistadora sugeriu pesquisar sobre Sistema B para modelo de negócio.
-
-Convite para apresentar o protótipo final ao projeto de extensão da entrevistadora.
+1. Discussão sobre coleta de dados pessoais (nome, e-mail) e necessidade de termos de serviço.
+2. Importância de conformidade com LGPD para dados dos usuários.
+3. Criptografia considerada desejável mas não prioritária inicialmente.
+4. Foco em desenvolver para dispositivos com poucos recursos computacionais, especialmente para escolas públicas.
+5. Sugestão de considerar o impacto ambiental do próprio aplicativo e planejar compensações.
+6. Recomendação de projetar arquitetura flexível para escalabilidade futura.
+7. A entrevistadora sugeriu pesquisar sobre Sistema B para modelo de negócio.
+8. Convite para apresentar o protótipo final ao projeto de extensão da entrevistadora.
 
 
 
 **Atitudes a tomar após reunião**
-Consultar a Fundação Ellen MacArthur e Instituto Lixo Zero para obter materiais sobre economia circular e pegada de carbono (09:06)
-
-Examinar a norma ABNT PR 2030 para recomendações para empresas ESG (14:19)
-
-Pesquisar navegador Ecosia como exemplo de tecnologia com propósito socioambiental (24:32)
-
-Implementar termos de serviço e conformidade com LGPD no aplicativo (26:23)
-
-Projetar arquitetura flexível para permitir escalabilidade futura (33:31)
-
-Pesquisar sobre empresas certificadas pelo Sistema B para possível modelo de negócio (37:40)
+1. Consultar a Fundação Ellen MacArthur e Instituto Lixo Zero para obter materiais sobre economia circular e pegada de carbono (09:06)
+2 .Examinar a norma ABNT PR 2030 para recomendações para empresas ESG (14:19)
+3. Pesquisar navegador Ecosia como exemplo de tecnologia com propósito socioambiental (24:32)
+4. Implementar termos de serviço e conformidade com LGPD no aplicativo (26:23)
+5. Projetar arquitetura flexível para permitir escalabilidade futura (33:31)
+6. Pesquisar sobre empresas certificadas pelo Sistema B para possível modelo de negócio (37:40)
 
 
 
@@ -310,8 +281,11 @@ Cenário de Sucesso Principal:
 
 Extensões:
 · E.1 No Passo 3, os dados de login são inválidos. → O sistema exibe mensagem de erro e solicita nova tentativa.
+
 · E.2 No Passo 5, o quiz não carrega. → O sistema mostra um erro de conexão e sugere tentar novamente mais tarde.
+
 · E.3 No Passo 6, o tempo para responder uma pergunta se esgota. → A resposta é registrada como em branco ou incorreta.
+
 · E.4 No Passo 9, o usuário tenta plantar árvore sem saldo ecológico. → O sistema informa que ele deve completar desafios antes de plantar.
 
 -----------------------
