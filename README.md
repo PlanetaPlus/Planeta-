@@ -296,6 +296,19 @@ Extensões:
 
 
 ***2.8. Matrizes de Rastreabilidade***
+| ID Requisito | História de Usuário                 | Caso de Uso                      | Tela / Protótipo                        | Artefatos Relacionados                |
+| ------------ | ----------------------------------- | -------------------------------- | --------------------------------------- | ------------------------------------- |
+| RF01         | HU01 – Criar conta e login          | CU01 – Autenticar Usuário        | Tela de Login / Cadastro                | Firebase Auth, BD de Usuários         |
+| RF02         | HU02 – Compartilhar progresso       | CU07 – Compartilhar Resultados   | Tela de Progresso / Compartilhamento    | API Social (ex: WhatsApp / Instagram) |
+| RF03         | HU03 – Calcular pegada de carbono   | CU02 – Calcular Pegada           | Tela de Pegada de Carbono               | Algoritmo de Cálculo, BD de Hábitos   |
+| RF04         | HU04 – Ver ranking de CO₂           | CU03 – Visualizar Ranking        | Tela de Ranking                         | BD de Pontuação, Sistema de Ranking   |
+| RF05         | HU05 – Exportar relatórios PDF      | CU08 – Gerar Relatório           | Tela de Relatórios                      | Geração de PDF, BD de Usuário         |
+| RF06         | HU06 – Acompanhar progresso pessoal | CU04 – Visualizar Progresso      | Tela da Árvore Virtual / Tela Progresso | BD de Conquistas, Árvore Virtual      |
+| RF07         | HU07 – Avaliação semanal            | CU09 – Receber Avaliação Semanal | Tela de Notificações                    | Sistema de Avaliação, Cron Scheduler  |
+| RF08         | HU08 – Jogar quizzes                | CU05 – Responder Quiz            | Tela de Quiz                            | Banco de Perguntas, Gamificação       |
+| RF09         | HU09 – Receber recompensas          | CU06 – Ver Recompensas           | Tela de Recompensas                     | Sistema de Recompensas, BD de Itens   |
+
+
 
 *<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
 
