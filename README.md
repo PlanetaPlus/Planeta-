@@ -163,6 +163,8 @@ Link da planilha com os requisitos e tipos de dependência: https://docs.google.
 A entrevista abordou a criação de um aplicativo educacional gamificado com foco em sustentabilidade, motivado pela experiência de vida de Maurício em sua cidade natal, Paranaguá. A equipe planeja incluir quizzes teóricos e funcionalidades para calcular a pegada de carbono dos usuários, visando tornar as informações acessíveis e impactantes, com a possibilidade de um selo 'amigo do clima' para empresas. Durante a reunião, foram discutidos feedbacks eficazes para promover mudanças de comportamento, a importância da conformidade com a LGPD na coleta de dados e a necessidade de planejar a arquitetura do aplicativo para escalabilidade futura. A entrevistadora sugeriu várias consultorias e pesquisas adicionais para aprimorar o projeto, além de convidar a equipe a apresentar o protótipo final ao projeto de extensão dela.
 
 **Notas:**
+
+
 **Motivação e Origem do Projeto (00:00 - 06:00)**
 Maurício (Integrante do grupo) explicou que sua motivação veio de sua cidade natal Paranaguá, com forte contato com questões ambientais.
 O projeto surgiu de conversa com a avó, professora, que notou que crianças não entendem sustentabilidade.
