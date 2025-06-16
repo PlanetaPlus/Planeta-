@@ -111,8 +111,20 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 --------------------------
 
 ***2.2. Requisitos Não Funcionais***
-[
-(https://github.com/PlanetaPlus/Planeta-/blob/bd49b3b31ae5dffe47099905447b66cd3b7b42f6/REQUISITOS%20NAO%20FUNCIONAIS.png)](https://docs.google.com/spreadsheets/d/1Du95BnGc2OFL156DzZyPDY-ckGwqj1C-JvwXgmwB0TQ/edit?gid=2116779670#gid=2116779670)
+| ID | REQUISITO FUNCIONAL | PRIORIDADE | DEPENDE DE |
+| -- | ------------------- | --------- | ----------- |
+| RNF01  | O aplicativo deve ser compatível com as versões mais recentes do Android e iOS. |M|            |
+| RNF02  | O tempo de resposta do aplicativo deve ser inferior a 2 segundos para qualquer ação do usuário. |C| RF01, RF06, RNF04 |
+| RNF03  |O aplicativo deve consumir menos de 5% de bateria em uso contínuo por 1 hora. |M| RF01, RNF02 |
+| RNF04  | O armazenamento de dados do usuário deve ser criptografado para garantir segurança e privacidade. |S| RF01,RF03, RNF07 |
+| RNF05  | O aplicativo deve funcionar offline para visualização de quizzes já baixados. |W| RF03, RF06, RNF09 |
+| RNF06  | A interface do usuário (UI) deve seguir princípios de acessibilidade WCAG 2.1 |M| RF01, RF03, RNF10 |
+| RNF07  | O aplicativo deve suportar até 10.000 usuários simultâneos sem degradação de desempenho. |M| RF01, RF06, RNF08 |
+| RNF08  | O sistema deve enviar notificações push apenas em horários pré-definidos (evitando spamming). |M| RF01, RNF05 |
+| RNF09  | O aplicativo deve ocupar menos de 50 MB de espaço no dispositivo do usuário. |C| RF01, RF06, RNF04 |
+| RNF10  | As atualizações do aplicativo devem ser lançadas trimestralmente com melhorias e correções, de segurança, usabilidade e desempenho |S| RF01, RF06, RNF02, RNF06 |
+| RNF11  | O sistema deve estar em conformidade com a LGPD, incluindo termos de uso e consentimento do usuário para coleta de dados. |S| RF06, RF07 |
+| RNF12  | A arquitetura do aplicativo deve ser flexível e escalável para permitir crescimento futuro e uso por instituições (como escolas). |C|RF06, RF10|
 
 ***2.3. Perguntas***
 
@@ -145,14 +157,61 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 ***2.4. Entrevista***
 
 - **Relatorio da entrevista:** 
+A entrevista abordou a criação de um aplicativo educacional gamificado com foco em sustentabilidade, motivado pela experiência de vida de Maurício em sua cidade natal, Paranaguá. A equipe planeja incluir quizzes teóricos e funcionalidades para calcular a pegada de carbono dos usuários, visando tornar as informações acessíveis e impactantes, com a possibilidade de um selo 'amigo do clima' para empresas. Durante a reunião, foram discutidos feedbacks eficazes para promover mudanças de comportamento, a importância da conformidade com a LGPD na coleta de dados e a necessidade de planejar a arquitetura do aplicativo para escalabilidade futura. A entrevistadora sugeriu várias consultorias e pesquisas adicionais para aprimorar o projeto, além de convidar a equipe a apresentar o protótipo final ao projeto de extensão dela.
 
-[Arquivo com relátorio da Entrevista](https://docs.google.com/document/d/1Tw5XRnbTb_OfrOyhIM2K6PDbE4Kc7J0-x5EuW6OCw0s/edit?tab=t.0#heading=h.36razy1tyhc8) 
+**Notas:**
+**Motivação e Origem do Projeto (00:00 - 06:00)**
+Maurício (Integrante do grupo) explicou que sua motivação veio de sua cidade natal Paranaguá, com forte contato com questões ambientais.
+O projeto surgiu de conversa com a avó, professora, que notou que crianças não entendem sustentabilidade.
+A equipe decidiu aliar tecnologia e sustentabilidade, criando um aplicativo educacional.
+A proposta foi aprovada pela professora apesar da complexidade inicial.
+A entrevistadora destacou a importância de associar tecnologia com questões socioambientais.
+
+
+**Conceito e Funcionalidades do Aplicativo (06:00 - 14:19)**
+Equipe está desenvolvendo um protótipo gamificado semelhante ao Duolingo.
+Aplicativo incluirá quizzes teóricos sobre sustentabilidade.
+Funcionalidade para calcular pegada de carbono baseada nos hábitos do usuário.
+Sugestão de tornar o cálculo da pegada de carbono mais acessível para leigos.
+A entrevistadora mencionou a importância de exemplos comparativos para usuários entenderem seu impacto.
+Equipe considera implementar um selo 'amigo do clima' para empresas.
+A entrevistadora sugeriu consultar a norma ABNT PR 2030 para empresas ESG.
+
+
+**Feedback e Relatórios (14:19 - 22:41)**
+Discussão sobre tipos de feedback eficazes para mudança de comportamento.
+Sugestão de mostrar dados de impacto a longo prazo (ex: uso de esponjas plásticas ao longo de um ano).
+A equipe planeja implementar relatórios mensais e um relatório anual abrangente.
+Sugestão de tornar relatórios visualmente atrativos, similar ao modelo do Spotify.
+Proposta de elementos visuais que mostram os impactos ambientais (ex: floresta que melhora ou piora).
+Confirmação de que quizzes podem efetivamente educar e conscientizar sobre sustentabilidade.
+Importância de contextualizar os conteúdos para o dia-a-dia do público-alvo.
+
+
+**Dados, Privacidade e Desempenho (22:41 - 39:08)**
+Discussão sobre coleta de dados pessoais (nome, e-mail) e necessidade de termos de serviço.
+Importância de conformidade com LGPD para dados dos usuários.
+Criptografia considerada desejável mas não prioritária inicialmente.
+Foco em desenvolver para dispositivos com poucos recursos computacionais, especialmente para escolas públicas.
+Sugestão de considerar o impacto ambiental do próprio aplicativo e planejar compensações.
+Recomendação de projetar arquitetura flexível para escalabilidade futura.
+A entrevistadora sugeriu pesquisar sobre Sistema B para modelo de negócio.
+Convite para apresentar o protótipo final ao projeto de extensão da entrevistadora.
+
+
+**Atitudes a tomar após reunião**
+Consultar a Fundação Ellen MacArthur e Instituto Lixo Zero para obter materiais sobre economia circular e pegada de carbono (09:06)
+Examinar a norma ABNT PR 2030 para recomendações para empresas ESG (14:19)
+Pesquisar navegador Ecosia como exemplo de tecnologia com propósito socioambiental (24:32)
+Implementar termos de serviço e conformidade com LGPD no aplicativo (26:23)
+Projetar arquitetura flexível para permitir escalabilidade futura (33:31)
+Pesquisar sobre empresas certificadas pelo Sistema B para possível modelo de negócio (37:40)
+
 
 
 - **Entrevista gravada:**
   
 [Arquivo com gravação da entrevista](https://drive.google.com/file/d/1t-S6nX85S-O8yJ5jRY0g4vWy4syTwThJ/view?usp=drivesdk)
-
 
 
 
@@ -184,9 +243,33 @@ Após a implementação do sistema Planeta+, os usuários passam a interagir com
 <img src="https://github.com/PlanetaPlus/Planeta-/blob/main/DiagramaDeCasoDeUso.png" alt="Diagrama de Caso de Uso">
 
 Especificação dos Casos de Uso: 
+ID: 001
+Nome do caso de uso: Interação do Usuário com o Aplicativo Planeta+
+Atores: Usuário, Sistema
+Visão Geral: Este caso de uso abrange as principais interações do usuário com o aplicativo Planeta+, que visa promover a conscientização ambiental por meio de quizzes, recompensas e simulações gamificadas. O sistema também atua de forma automática em algumas funcionalidades, como notificações e atualização do estado do planeta virtual.
 
-https://1drv.ms/w/c/f5d7142c7b2a3228/EahW5mEswX1Ki50JcFF40KIBTlPeZXphGAp-4_WPnD-PWw?e=2EMJgc
 
+Cenário de Sucesso Principal:
+1. O usuário acessa o aplicativo Planeta+.
+2. Escolhe entre realizar o cadastro ou efetuar o login.
+3. O sistema valida os dados de autenticação e redireciona o usuário para a tela principal.
+4. O usuário seleciona a opção Responder Quizzes.
+5. O sistema carrega um conjunto de perguntas e exibe a primeira.
+6. O usuário responde às perguntas e o sistema registra as respostas.
+7. Ao término do quiz, o sistema calcula o desempenho e mostra o resultado.
+8. Se aplicável, o sistema entrega recompensas virtuais (medalhas ou pontos).
+9. O usuário, com saldo suficiente, acessa a função Plantar Árvore Virtual.
+10. O sistema registra a árvore plantada e atualiza o estado do planeta.
+11. O usuário acessa a tela do Planeta Virtual, que reflete suas ações (mais verde ou mais degradado).
+12. Periodicamente, o sistema envia notificações ecológicas automáticas, incentivando ações sustentáveis.
+13. O usuário acompanha seu progresso por meio de relatórios e telas de status dentro do app.
+14. O caso de uso termina quando o usuário decide sair ou encerrar a sessão.
+
+Extensões:
+· E.1 No Passo 3, os dados de login são inválidos. → O sistema exibe mensagem de erro e solicita nova tentativa.
+· E.2 No Passo 5, o quiz não carrega. → O sistema mostra um erro de conexão e sugere tentar novamente mais tarde.
+· E.3 No Passo 6, o tempo para responder uma pergunta se esgota. → A resposta é registrada como em branco ou incorreta.
+· E.4 No Passo 9, o usuário tenta plantar árvore sem saldo ecológico. → O sistema informa que ele deve completar desafios antes de plantar.
 
 -----------------------
 
