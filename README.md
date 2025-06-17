@@ -7,7 +7,10 @@ Link do Padlet: [Padlet Planeta+](https://padlet.com/marianagp294/requisitos-de-
 
 ## 1. Introdução
 
-***1.1.  Camille, Júlia, Mariana e Maurício***
+***1.1.  Camille DalLin de Oliveira - 2648784
+Júlia Pivello Vila Real - 2565684
+Mariana Gasparotto Palácios - 2648890
+Maurício Albuquerque Christakis - 2649152***
 
 ***1.2.  Planeta+***
 
