@@ -317,8 +317,7 @@ Extensões:
 
 
 ***2.9. Protótipos***
-
-ninjamock.com/Designer/Workplace/204683795
+https://ninjamock.com/Designer/Workplace/204683795/Page1
 
 
 ## Referências
