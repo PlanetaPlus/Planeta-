@@ -318,6 +318,8 @@ Extensões:
 
 ***2.9. Protótipos***
 https://ninjamock.com/Designer/Workplace/204683795/Page1
+<img src="https://github.com/PlanetaPlus/Planeta-/blob/main/Requisitos/Diagrama%20de%20Atividade.jpg" alt="Diagrama de Atividades](https://github.com/PlanetaPlus/Planeta-/blob/main/Prototipos.png">
+
 
 
 ## Referências
